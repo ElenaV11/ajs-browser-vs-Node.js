@@ -1,0 +1,23 @@
+{
+  "name": "ajs-browser-vs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ElenaV11/ajs-browser-vs-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElenaV11/ajs-browser-vs-Node.js/issues"
+  },
+  "homepage": "https://github.com/ElenaV11/ajs-browser-vs-Node.js#readme",
+  "dependencies": {
+    "@elenav11/ajs": "^1.0.0"
+  }
+}
